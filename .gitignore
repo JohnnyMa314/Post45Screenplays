@@ -1,4 +1,6 @@
 data
 raw
 .vscode
-
+format_valid_check.json
+.ipynb_checkpoints
+prototyping.ipynb
